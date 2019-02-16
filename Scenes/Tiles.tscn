@@ -1,0 +1,50 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Assets/Tiles/cityTiles_079.png" type="Texture" id=1]
+[ext_resource path="res://Assets/Tiles/cityTiles_080.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Tiles/cityTiles_086.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Tiles/cityTiles_087.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Tiles/cityTiles_094.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Tiles/cityTiles_113.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Tiles/cityTiles_117.png" type="Texture" id=7]
+[ext_resource path="res://Assets/Tiles/cityTiles_118.png" type="Texture" id=8]
+[ext_resource path="res://Assets/Tiles/cityTiles_121.png" type="Texture" id=9]
+
+[node name="Tiles" type="Node2D"]
+
+[node name="cityTiles_079" type="Sprite" parent="."]
+position = Vector2( 504.24, 194.899 )
+texture = ExtResource( 1 )
+
+[node name="cityTiles_080" type="Sprite" parent="."]
+position = Vector2( 405.165, 369.111 )
+texture = ExtResource( 2 )
+
+[node name="cityTiles_086" type="Sprite" parent="."]
+position = Vector2( 688.427, 195.564 )
+texture = ExtResource( 3 )
+
+[node name="cityTiles_087" type="Sprite" parent="."]
+position = Vector2( 304.096, 194.899 )
+texture = ExtResource( 4 )
+
+[node name="cityTiles_094" type="Sprite" parent="."]
+position = Vector2( 105.946, 190.909 )
+texture = ExtResource( 5 )
+
+[node name="cityTiles_113" type="Sprite" parent="."]
+position = Vector2( 715.024, 46.6189 )
+texture = ExtResource( 6 )
+
+[node name="cityTiles_117" type="Sprite" parent="."]
+position = Vector2( 545.466, 36.6449 )
+texture = ExtResource( 7 )
+
+[node name="cityTiles_118" type="Sprite" parent="."]
+position = Vector2( 361.945, 44.6241 )
+texture = ExtResource( 8 )
+
+[node name="cityTiles_121" type="Sprite" parent="."]
+position = Vector2( 178.423, 47.2838 )
+texture = ExtResource( 9 )
+
